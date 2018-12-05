@@ -3,7 +3,7 @@
 #include <cmath>
 #include <cstring>
 
-#define maximum 1000000 //10^6
+#define maximum 1000000 //10^6 max
 
 using namespace std;
 
